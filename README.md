@@ -2,6 +2,8 @@
 
 Code templates for data prep and different ML algorithms in Python.
 
+(most elements are not yet added)
+
 Data Processing
 Categorical Encoding
 Splitting of dataset
