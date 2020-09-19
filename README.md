@@ -14,7 +14,7 @@ PCA
 LDA
 Kernel PCA
 k fold Cross validation
-xgboost
+xgboost.
 
 Simple Linear Regression
 Multiple Linear Regression
